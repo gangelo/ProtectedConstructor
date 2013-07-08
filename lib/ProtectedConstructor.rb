@@ -19,7 +19,7 @@ require "ProtectedConstructor/version"
 #     end
 #   end
 #
-#   # Constructor is not protected.
+#   # Constructor is protected.
 #   klass = Klass.new # NoMethodError
 #
 #   # Example using factory...

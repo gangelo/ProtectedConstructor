@@ -38,18 +38,18 @@ Or install it yourself as:
       end
     end
  
-      Constructor is not protected.
+    # Constructor is protected.
     klass = Klass.new   NoMethodError
  
-      Example using factory...
-    klass = KlassFactory::create   works
-    klass.nil?   false
-    klass.is_a?(Klass)   true
+    # Example using factory...
+    klass = KlassFactory::create # works
+    klass.nil?  # false
+    klass.is_a?(Klass) # true
  
-      Example just using  send...
-    klass = Klass.send(:new)   works
-    klass.nil?   false
-    klass.is_a?(Klass)   true
+    # Example just using  #send...
+    klass = Klass.send(:new)  # works
+    klass.nil?  # false
+    klass.is_a?(Klass)  # true
  
 ## Contributing
 
