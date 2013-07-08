@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" name="Default" comment="" />
+    <list default="true" id="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProtectedConstructor.gemspec" afterPath="$PROJECT_DIR$/ProtectedConstructor.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ProtectedConstructor.rb" afterPath="$PROJECT_DIR$/lib/ProtectedConstructor.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="ProtectedConstructor.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373298427693" ignored="false" />
-    <file path="/README.md" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373299500902" ignored="false" />
+    <file path="/README.md" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373302046058" ignored="false" />
     <file path="/LICENSE.txt" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373293800369" ignored="false" />
     <file path="/spec_helper.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373297633742" ignored="false" />
     <file path="/protected_constructor_spec.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373298674255" ignored="false" />
     <file path="/klass_factory.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373297952044" ignored="false" />
+    <file path="/ProtectedConstructor.gemspec" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373300073743" ignored="false" />
+    <file path="/ProtectedConstructor.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373301885305" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +38,16 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="40" selection-start="487" selection-end="487" vertical-scroll-proportion="0.5597484">
+            <state line="20" column="0" selection-start="399" selection-end="399" vertical-scroll-proportion="0.29620853">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProtectedConstructor.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ProtectedConstructor.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="36" selection-start="40" selection-end="647" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,25 +56,7 @@
       <file leaf-file-name="protected_constructor_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/ProtectedConstructor/protected_constructor_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="34" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="klass.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/klass.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="12" selection-start="0" selection-end="170" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="klass_factory.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/klass_factory.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="30" selection-start="89" selection-end="109" vertical-scroll-proportion="0.0">
+            <state line="15" column="37" selection-start="541" selection-end="565" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,12 +84,13 @@
         <option value="$PROJECT_DIR$/LICENSE.txt" />
         <option value="$PROJECT_DIR$/lib/ProtectedConstructor/version.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/lib/ProtectedConstructor.rb" />
         <option value="$PROJECT_DIR$/spec/checker/protected_constructor_spec.rb" />
         <option value="$PROJECT_DIR$/spec/klass.rb" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/spec/klass_factory.rb" />
         <option value="$PROJECT_DIR$/spec/ProtectedConstructor/protected_constructor_spec.rb" />
+        <option value="$PROJECT_DIR$/ProtectedConstructor.gemspec" />
+        <option value="$PROJECT_DIR$/lib/ProtectedConstructor.rb" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -381,17 +379,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6697613" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6697613" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33023873" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33023873" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,23 +492,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ProtectedConstructor.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/ProtectedConstructor/protected_constructor_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -522,16 +506,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ProtectedConstructor.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="132" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/klass_factory.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="89" selection-end="109" vertical-scroll-proportion="0.0">
+        <state line="9" column="10" selection-start="17" selection-end="127" vertical-scroll-proportion="0.28301886">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/ProtectedConstructor/protected_constructor_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="541" selection-end="565" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ProtectedConstructor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="36" selection-start="40" selection-end="647" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="40" selection-start="487" selection-end="487" vertical-scroll-proportion="0.5597484">
+        <state line="20" column="0" selection-start="399" selection-end="399" vertical-scroll-proportion="0.29620853">
           <folding />
         </state>
       </provider>

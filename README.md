@@ -20,20 +20,36 @@ Or install it yourself as:
 ## Usage
 
     require 'ProtectedConstructor'
-
+ 
     class Klass
       include ProtectedConstructor
-
+ 
       def initialize
       end
     end
-
-    klass = Klass.new # NoMethodError
-
-    klass = Klass.send(:new) # works
-    klass.nil? # false
-    klass.is_a?(Klass) # true
-
+ 
+    module KlassFactory
+      class << self
+        public
+        def create
+          Klass.send(:new)
+        end
+      end
+    end
+ 
+      Constructor is not protected.
+    klass = Klass.new   NoMethodError
+ 
+      Example using factory...
+    klass = KlassFactory::create   works
+    klass.nil?   false
+    klass.is_a?(Klass)   true
+ 
+      Example just using  send...
+    klass = Klass.send(:new)   works
+    klass.nil?   false
+    klass.is_a?(Klass)   true
+ 
 ## Contributing
 
 1. Fork it

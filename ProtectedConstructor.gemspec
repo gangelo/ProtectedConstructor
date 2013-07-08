@@ -6,10 +6,10 @@ require 'ProtectedConstructor/version'
 Gem::Specification.new do |spec|
   spec.name          = "ProtectedConstructor"
   spec.version       = ProtectedConstructor::VERSION
-  spec.authors       = ["gangelo"]
-  spec.email         = ["web.gma@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.authors       = ["Gene M. Angelo, Jr."]
+  spec.email         = ["public.gma@gmail.com"]
+  spec.description   = %q{ProtectedConstructor Gem}
+  spec.summary       = %q{Provides a module that may be included in a Ruby class, that protects the constructor; good for enforcing instantiation of classes using, for instance, a class factory.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
