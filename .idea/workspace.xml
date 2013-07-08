@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ProtectedConstructor/version.rb" afterPath="$PROJECT_DIR$/lib/ProtectedConstructor/version.rb" />
     </list>
     <ignored path="ProtectedConstructor.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373302834255" ignored="false" />
-    <file path="/README.md" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373303171166" ignored="false" />
+    <file path="/README.md" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373304095331" ignored="false" />
     <file path="/LICENSE.txt" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373293800369" ignored="false" />
     <file path="/spec_helper.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373297633742" ignored="false" />
     <file path="/protected_constructor_spec.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373298674255" ignored="false" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="72" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+            <state line="4" column="102" selection-start="24" selection-end="338" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -57,6 +56,15 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="13" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProtectedConstructor.gemspec" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProtectedConstructor.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="132" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,8 +125,8 @@
         <option value="$PROJECT_DIR$/ProtectedConstructor.gemspec" />
         <option value="$PROJECT_DIR$/lib/ProtectedConstructor.rb" />
         <option value="$PROJECT_DIR$/Rakefile" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/ProtectedConstructor/version.rb" />
       </list>
     </option>
@@ -529,13 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProtectedConstructor.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="132" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/klass_factory.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="10" selection-start="17" selection-end="127" vertical-scroll-proportion="0.28301886">
@@ -573,7 +574,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="72" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+        <state line="4" column="102" selection-start="24" selection-end="338" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -581,6 +582,13 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProtectedConstructor.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="132" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
