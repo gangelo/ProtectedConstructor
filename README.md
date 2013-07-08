@@ -1,7 +1,8 @@
 # ProtectedConstructor
 
 Provides a module that may be included in a Ruby class, that protects the constructor; good for enforcing
-instantiation of classes using, for instance, a class factory.
+instantiation of classes using, for instance, a class factory. The code itself is not mine, I just wrapped it
+in a gem; sorry, I don't remember the origin of the code to give credit.
 
 ## Installation
 
