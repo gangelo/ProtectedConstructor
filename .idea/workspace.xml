@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ProtectedConstructor.rb" afterPath="$PROJECT_DIR$/lib/ProtectedConstructor.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ProtectedConstructor/version.rb" afterPath="$PROJECT_DIR$/lib/ProtectedConstructor/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProtectedConstructor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373302834255" ignored="false" />
-    <file path="/README.md" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373304368773" ignored="false" />
+    <file path="/Dummy.txt" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373374881144" ignored="false" />
+    <file path="/README.md" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373374902904" ignored="false" />
     <file path="/LICENSE.txt" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373293800369" ignored="false" />
     <file path="/spec_helper.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373297633742" ignored="false" />
     <file path="/protected_constructor_spec.rb" changelist="d8942c7f-4ad1-4925-b73d-25c4ef52dd1d" time="1373298674255" ignored="false" />
@@ -35,15 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="21" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ProtectedConstructor/version.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,10 +70,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProtectedConstructor.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProtectedConstructor.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ProtectedConstructor.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="32" selection-start="259" selection-end="259" vertical-scroll-proportion="0.031446543">
+            <state line="15" column="32" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="22" selection-start="868" selection-end="868" vertical-scroll-proportion="0.4848901">
               <folding />
             </state>
           </provider>
@@ -126,9 +125,9 @@
         <option value="$PROJECT_DIR$/ProtectedConstructor.gemspec" />
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/ProtectedConstructor/version.rb" />
         <option value="$PROJECT_DIR$/lib/ProtectedConstructor.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -163,6 +162,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,18 +219,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -412,11 +411,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25322813" sideWeight="0.6697613" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681493" sideWeight="0.6697613" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33023873" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33023873" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -519,16 +518,12 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="147" selection-end="147" vertical-scroll-proportion="-2.7777777">
-          <folding />
-        </state>
+        <state line="5" column="24" selection-start="147" selection-end="147" vertical-scroll-proportion="-2.7777777" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="18" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/klass.rb">
@@ -540,9 +535,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/klass_factory.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="17" selection-end="127" vertical-scroll-proportion="0.28301886">
-          <folding />
-        </state>
+        <state line="9" column="10" selection-start="17" selection-end="127" vertical-scroll-proportion="0.28301886" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/ProtectedConstructor/protected_constructor_spec.rb">
@@ -554,9 +547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
@@ -580,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="21" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/ProtectedConstructor/version.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="18" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
@@ -596,7 +580,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/ProtectedConstructor.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="32" selection-start="259" selection-end="259" vertical-scroll-proportion="0.031446543">
+        <state line="15" column="32" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="22" selection-start="868" selection-end="868" vertical-scroll-proportion="0.4848901">
           <folding />
         </state>
       </provider>

@@ -39,7 +39,7 @@ Or install it yourself as:
     end
  
     # Constructor is protected.
-    klass = Klass.new   NoMethodError
+    klass = Klass.new # NoMethodError
  
     # Example using factory...
     klass = KlassFactory::create # works
