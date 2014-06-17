@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["public.gma@gmail.com"]
   spec.description   = %q{ProtectedConstructor Gem}
   spec.summary       = %q{Provides a module that may be included in a Ruby class, that protects the constructor; good for enforcing instantiation of classes using, for instance, a class factory.}
-  spec.homepage      = ""
+  spec.homepage      = "http://www.geneangelo.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
@@ -18,6 +18,14 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
+  #spec.add_development_dependency "bundler", "~> 1.3"
+  #spec.add_development_dependency "rake"
+
+
+  spec.required_ruby_version = '~> 2.0.0'
   spec.add_development_dependency "bundler", "~> 1.3"
-  spec.add_development_dependency "rake"
+  spec.add_development_dependency "rake", "~>0"
+  spec.add_development_dependency "rspec", "~> 3.0", ">= 3.0.0"
+  spec.add_development_dependency "yard", "0.8.6.2"
+  spec.add_development_dependency "redcarpet", '~> 2.3', '>= 2.3.0'
 end
