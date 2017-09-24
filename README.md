@@ -1,5 +1,13 @@
-# ProtectedConstructor
+[![GitHub version](https://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)](https://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)
+[![Gem Version](https://badge.fury.io/rb/ProtectedConstructor.svg)](https://badge.fury.io/rb/ProtectedConstructor.svg)
 
+![](http://ruby-gem-downloads-badge.herokuapp.com/ProtectedConstructor?type=total)
+[![Documentation](http://img.shields.io/badge/docs-rdoc.info-blue.svg)](http://www.rubydoc.info/gems/ProtectedConstructor/)
+
+[![Report Issues](https://img.shields.io/badge/report-issues-red.svg)](https://github.com/gangelo/ProtectedConstructor/issues)
+
+[![License](http://img.shields.io/badge/license-MIT-yellowgreen.svg)](#license)
+# ProtectedConstructor
 Provides a module that may be included in a Ruby class, that protects the constructor; good for enforcing
 instantiation of classes using, for instance, a class factory. The code itself is not mine, I just wrapped it
 in a gem and provided the examples; sorry, I don't remember the origin of the code to give credit.
