@@ -1,5 +1,5 @@
-[![Gem Version](https://badge.fury.io/rb/ProtectedConstructor.svg)](https://badge.fury.io/rb/ProtectedConstructor.svg)
 [![GitHub version](http://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)](http://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)
+[![Gem Version](https://badge.fury.io/rb/ProtectedConstructor.svg)](https://badge.fury.io/rb/ProtectedConstructor.svg)
 
 ![](http://ruby-gem-downloads-badge.herokuapp.com/ProtectedConstructor?type=total)
 [![Documentation](http://img.shields.io/badge/docs-rdoc.info-blue.svg)](http://www.rubydoc.info/gems/ProtectedConstructor/)
