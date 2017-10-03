@@ -1,4 +1,4 @@
-[![GitHub version](http://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)](https://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)
+[![GitHub version](https://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)](https://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)
 [![Gem Version](https://badge.fury.io/rb/ProtectedConstructor.svg)](https://badge.fury.io/rb/ProtectedConstructor.svg)
 
 ![](http://ruby-gem-downloads-badge.herokuapp.com/ProtectedConstructor?type=total)
