@@ -1,4 +1,6 @@
-require "ProtectedConstructor/version"
+# frozen_string_literal: true
+
+require 'ProtectedConstructor/version'
 
 # @example
 #   require 'ProtectedConstructor'
@@ -37,12 +39,6 @@ module ProtectedConstructor
     klass.module_eval do
       class << self
         protected :new
-
-        def inherited(klass)
-          klass.module_eval do
-            def self.new(*args); super; end
-          end
-        end
       end
     end
   end
