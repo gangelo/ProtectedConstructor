@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
 module ProtectedConstructor
-  VERSION = '2.0.3'
+  VERSION = '2.1.3'
 end
