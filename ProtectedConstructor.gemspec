@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.summary       = 'Provides a module that may be included in a Ruby class, ' \
     'that protects the constructor; good for enforcing instantiation of classes ' \
     'using, for instance, a class factory.'
-  spec.homepage      = 'http://www.geneangelo.com'
+  spec.homepage      = 'https://github.com/gangelo/ProtectedConstructor'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
