@@ -26,7 +26,7 @@ Or install it yourself as:
 
 ## Usage
 
-    require 'ProtectedConstructor'
+    require 'protected_constructor'
 
     class Klass
       include ProtectedConstructor

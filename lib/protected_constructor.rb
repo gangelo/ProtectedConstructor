@@ -3,7 +3,7 @@
 require 'ProtectedConstructor/version'
 
 # @example
-#   require 'ProtectedConstructor'
+#   require 'protected_constructor'
 #
 #   class Klass
 #     include ProtectedConstructor

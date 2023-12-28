@@ -1,4 +1,7 @@
-### 2.2.0 2023-12-28
+### 3.0.0 2023-12-28
+* Breaking changes
+  * The require file for this gem is now 'protected_constructor' instead of 'ProtectedConstructor' (i.e. `require 'protected_constructor'`). Remove all references to `require 'ProtectedConstructor'` and replace with `require 'protected_constructor'`.
+
 * changes
   * Relax ruby dependency to '~> 3.0'.
   * Update ruby gems.
