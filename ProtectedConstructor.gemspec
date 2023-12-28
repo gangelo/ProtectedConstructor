@@ -24,14 +24,4 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.required_ruby_version = '~> 3.0.1'
-  spec.add_development_dependency 'bundler', '>= 2.4', '< 3.0'
-  spec.add_development_dependency 'pry-byebug', '>= 3.9', '< 4.0'
-  spec.add_development_dependency 'rake', '>= 13.0', '< 14.0'
-  spec.add_development_dependency 'redcarpet', '>= 3.5', '< 4.0'
-  spec.add_development_dependency 'reek', '>= 6.1', '< 7.0'
-  spec.add_development_dependency 'rspec', '>= 3.10', '< 4.0'
-  spec.add_development_dependency 'rubocop', '>= 1.35', '< 2.0'
-  spec.add_development_dependency 'rubocop-performance', '>= 1.14', '< 2.0'
-  spec.add_development_dependency 'rubocop-rspec', '>= 2.12', '< 3.0'
-  spec.add_development_dependency 'yard', '>= 0.9.28', '< 1.0'
 end

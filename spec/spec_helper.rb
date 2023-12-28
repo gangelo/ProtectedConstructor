@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'pry-byebug'
-require_relative '../lib/ProtectedConstructor'
+require_relative '../lib/protected_constructor'
 
 Dir[File.join(Dir.pwd, 'spec/support/**/*.rb')].sort.each { |f| require f }
 
