@@ -1,5 +1,6 @@
-### 2.1.7 2023-12-28
+### 2.2.0 2023-12-28
 * changes
+  * Relax ruby dependency to '~> 3.0'.
   * Update ruby gems.
 
 ### 2.1.6 2023-12-02
