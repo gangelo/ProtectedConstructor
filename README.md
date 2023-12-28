@@ -1,6 +1,6 @@
 [![Ruby](https://github.com/gangelo/ProtectedConstructor/actions/workflows/ruby.yml/badge.svg)](https://github.com/gangelo/ProtectedConstructor/actions/workflows/ruby.yml)
-[![GitHub version](http://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg?v=2.2.0)](http://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)
-[![Gem Version](https://badge.fury.io/rb/ProtectedConstructor.svg?v=2.2.0)](https://badge.fury.io/rb/ProtectedConstructor.svg)
+[![GitHub version](http://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg?refresh=1)](http://badge.fury.io/gh/gangelo%2FProtectedConstructor.svg)
+[![Gem Version](https://badge.fury.io/rb/ProtectedConstructor.svg?refresh=2)](https://badge.fury.io/rb/ProtectedConstructor.svg)
 [![Documentation](http://img.shields.io/badge/docs-rdoc.info-blue.svg)](http://www.rubydoc.info/gems/ProtectedConstructor/)
 [![Report Issues](https://img.shields.io/badge/report-issues-red.svg)](https://github.com/gangelo/ProtectedConstructor/issues)
 [![License](http://img.shields.io/badge/license-MIT-yellowgreen.svg)](#license)
