@@ -1,3 +1,17 @@
+<<<<<<< Updated upstream
+=======
+### 3.0.3 2024-08-07
+
+* Changes
+ * Update gems.
+ * Update ruby.yml to test against multiple ruby versions and platforms.
+
+>>>>>>> Stashed changes
+### 3.0.2 2024-02-18
+
+* Changes
+ * Update gems.
+
 ### 3.0.1 2024-01-07
 
 * Changes
