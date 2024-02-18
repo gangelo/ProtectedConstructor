@@ -24,4 +24,33 @@ Gem::Specification.new do |spec|
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ['lib']
+  spec.post_install_message = <<~POST_INSTALL
+    Thank you for installing ProtectedConstructor.
+
+    View the ProtectedConstructor README.md here: https://github.com/gangelo/ProtectedConstructor
+    View the ProtectedConstructor CHANGELOG.md: https://github.com/gangelo/ProtectedConstructor/blob/main/CHANGELOG.md
+
+                *
+               ***
+             *******
+            *********
+     ***********************
+        *****************
+          *************
+         ******* *******
+        *****       *****
+       ***             ***
+      **                 **
+
+    Using ProtectedConstructor? ProtectedConstructor is made available free of charge. Please consider giving ProtectedConstructor a STAR on GitHub as well as sharing ProtectedConstructor with your fellow developers on social media.
+
+    Knowing that ProtectedConstructor is being used and appreciated is a great motivator to continue developing and improving ProtectedConstructor.
+
+    >>> Star it on github: https://github.com/gangelo/ProtectedConstructor
+    >>> Share on social media: https://rubygems.org/gems/ProtectedConstructor
+
+    Thank you!
+
+    <3 Gene
+  POST_INSTALL
 end
