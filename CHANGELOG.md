@@ -1,3 +1,11 @@
+### 4.0.0 2025-07-10
+
+* Changes
+  * Update gems.
+  * Add support for Ruby 3.2 through 3.4.
+  * Add CI tests against Ruby 3.2, 3.3, and 3.4.
+  * Removed os support for Windows 2019, ubuntu 20.04 and other unsupported GitHub Action runner os'.
+
 ### 3.0.3 2024-08-07
 
 * Changes

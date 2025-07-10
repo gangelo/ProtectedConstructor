@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ProtectedConstructor (3.0.4)
+    ProtectedConstructor (4.0.0)
 
 GEM
   remote: https://rubygems.org/
