@@ -21,5 +21,5 @@ group :test do
 end
 
 group :development, :test do
-  gem 'pry-byebug', '>= 3.9', '< 4.0'
+  gem 'pry-byebug', '~> 3.11'
 end
